@@ -6,9 +6,9 @@
  This project could run only in a real device since the video player does not support a simulator or either emulator.
 
 
-A new Flutter project.
-
 ## Getting Started
+
+A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
