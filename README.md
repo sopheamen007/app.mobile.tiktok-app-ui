@@ -1,4 +1,6 @@
-# tik_tok_ui
+# TikTok Clone App UI
+
+![TikTok App UI](https://user-images.githubusercontent.com/16510597/88754800-d5728b80-d189-11ea-862d-be294c22da84.jpg)
 
 A new Flutter project.
 
