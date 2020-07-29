@@ -2,8 +2,9 @@
 
 ![TikTok App UI](https://user-images.githubusercontent.com/16510597/88754800-d5728b80-d189-11ea-862d-be294c22da84.jpg)
 
-## Getting Started
-Note: This project could run only in a real device since the video player does not support a simulator or either emulator.
+## Note:
+ This project could run only in a real device since the video player does not support a simulator or either emulator.
+
 
 A new Flutter project.
 
